@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🤖 ArkAgents - AI Agent Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create custom AI agents in seconds.
 
-## Available Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
-In the project directory, you can run:
 
-### `npm start`
+* **Custom AI Agents** - Create unlimited specialized agents
+* **Real-time Chat** - Blazing fast responses (<2 seconds)
+* **Conversation Memory** - Agents remember context
+* **Multi-agent Support** - Switch between different agents
+* **Beautiful UI** - Clean, modern chat interface
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📖 API Endpoints
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/agents/create` | Create new agent |
+| GET | `/api/agents/list` | List all agents |
+| GET | `/api/agents/{id}` | Get agent details |
+| POST | `/api/agents/{id}/chat` | Chat with agent |
+| DELETE | `/api/agents/{id}` | Delete agent |
 
-### `npm test`
+## 🎯 Use Cases
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Customer support automation
+- Content generation assistants
+- Code review agents
+- Data analysis helpers
+- Personal productivity bots
 
-### `npm run build`
+## 🤝 Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Part of **Ark Technologies** - Building AI-native business tools.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 License
 
-### `npm run eject`
+MIT License - see [LICENSE](LICENSE) file for details
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔗 Related Projects
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **[ArkMail](https://mail.arktechnologies.ai)** - Intelligent email management
+- **[ArkCRM](https://arktechnologies.ai/dashboard)** - Customer relationship management
+- **[Ark Technologies](https://arktechnologies.ai)** - Main website
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🐛 Issues & Support
