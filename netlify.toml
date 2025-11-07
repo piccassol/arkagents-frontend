@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://arktechnologies.ai/playground/waitlist"
+to = "https://arktechnologies.ai/playground"
 status = 302
 force = true
 
