@@ -1,4 +1,6 @@
-# 🤖 ArkAgents - AI Agent Platform
+# ArkAgents - AI Agent Platform ᯓ★ˎˊ˗
+<img width="405" height="75" alt="image" src="https://github.com/user-attachments/assets/91d048ab-9890-414e-b94a-a4c13af31295" />
+
 
 Create custom AI agents in seconds.
 
