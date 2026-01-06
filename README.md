@@ -49,4 +49,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 - **[ArkCRM](https://arktechnologies.ai/dashboard)** - Customer relationship management
 - **[Ark Technologies](https://arktechnologies.ai)** - Main website
 
-## 🐛 Issues & Support
+## 🐛 API coming soon!
