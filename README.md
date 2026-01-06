@@ -48,5 +48,5 @@ MIT License - see [LICENSE](LICENSE) file for details
 - **[ArkMail](https://mail.arktechnologies.ai)** - Intelligent email management
 - **[ArkCRM](https://arktechnologies.ai/dashboard)** - Customer relationship management
 - **[Ark Technologies](https://arktechnologies.ai)** - Main website
-
-## 🐛 API coming soon!
+ 
+## 🐛 Backend Public API coming soon! for now visit the Ark SDK
